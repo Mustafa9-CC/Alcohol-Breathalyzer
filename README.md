@@ -1,4 +1,4 @@
-🍷 **Alcohol Breathalyzer Using ESP32 & MQ Sensor**
+🍷 **Alcohol Breathalyzer Using ESP32 & MQ-3 Sensor**
 
 **An open-source alcohol detection system built using an ESP32 microcontroller, MQ-series gas sensor (e.g., MQ-3/MQ-135), and an I2C LCD.
 The project detects alcohol concentration in breath and categorizes it into states: Sober, Possible Alcohol, or High Alcohol.**
