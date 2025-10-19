@@ -86,7 +86,9 @@ else status = "Sober";
 🧑‍💻 **Author**
 
   TEAM DESTRUCTORS-- 
-    Team Lead-- Vasu Singh 
+
+    **Team Lead--** Vasu Singh 
+
       Team Members-- 
        1. Mohd Mustafa 
        2. Kashif Ansari 
