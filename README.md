@@ -73,12 +73,14 @@ else status = "Sober";
    Status: Possible Alcohol 
    
 🧪 **Calibration Tips**
+
   Run the device in fresh air for calibration.
   Avoid blowing on the sensor during warm-up.
   Note the displayed R₀ and use it as your baseline.
   You can tweak thresholds based on your test results.
 
 🪄 **Future Improvements**
+
   Add buzzer or LED alerts for high alcohol detection
   Add Bluetooth module to send readings to a phone
   Display BAC estimate (Blood Alcohol Concentration)
