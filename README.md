@@ -87,7 +87,7 @@ else status = "Sober";
 
   TEAM DESTRUCTORS-- 
 
-    **Team Lead**-- Vasu Singh 
+    **Team Lead--** Vasu Singh 
 
       Team Members-- 
        1. Mohd Mustafa 
