@@ -37,8 +37,9 @@ GND--GND
 5. Select **Board → ESP32 Dev Module.**
 6. Upload and monitor output at 115200 baud.
 
-🧮 Working Principle
-   .During calibration, the sensor measures baseline resistance (R₀) in clean air.
+🧮 **Working Principle**
+
+   During calibration, the sensor measures baseline resistance (R₀) in clean air.
    .During measurement:
      .Sensor resistance (Rₛ) is calculated from analog voltage.
      .The ratio Rₛ/R₀ indicates alcohol presence.
