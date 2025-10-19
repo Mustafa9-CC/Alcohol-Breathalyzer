@@ -18,6 +18,7 @@ MQ-3 / MQ-135--Sensor	Gas sensor--Detects alcohol in breath
 Wires & Power Supply--For connections and powering modules
 
 🔌 **Circuit Connections**
+
 Component	ESP32 Pin
 MQ Sensor Output (A0)--GPIO 34 (Analog Input)
 LCD SDA--GPIO 21
