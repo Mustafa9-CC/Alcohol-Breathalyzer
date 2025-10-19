@@ -80,7 +80,8 @@ else status = "Sober";
   Add buzzer or LED alerts for high alcohol detection
   Add Bluetooth module to send readings to a phone
   Display BAC estimate (Blood Alcohol Concentration)
-  Log readings on a web dashboard using ESP32 Wi-Fi
+  Log readings on a web dashboard using ESP32 Wi-Fi. 
+
 🧑‍💻 **Author**
   TEAM DESTRUCTORS-- 
     Team Lead-- Vasu Singh 
